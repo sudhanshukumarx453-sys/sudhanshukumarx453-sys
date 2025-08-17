@@ -1,16 +1,39 @@
-## Hi there 👋
 
-<!--
-**sudhanshukumarx453-sys/sudhanshukumarx453-sys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there, I'm Sudhanshu 👋
 
-Here are some ideas to get you started:
+🎓 **B.Tech IT Student** at University College of Engineering & Technology, VBU Hazaribagh  
+💻 Aspiring **Software Developer** | Passionate about **Web Development & Problem Solving**  
+🌱 Currently learning **HTML, CSS, JavaScript, and C++**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Skills
+- **Programming Languages:** C++, HTML, CSS, JavaScript (Learning)  
+- **Tools & Platforms:** Git, GitHub  
+- **Areas of Interest:** Web Development, Data Structures & Algorithms, Open Source  
+
+---
+
+## 📌 Current Focus
+- Building portfolio projects  
+- Practicing Problem Solving (C++)  
+- Exploring JavaScript & React  
+
+---
+
+## 📊 GitHub Stats  
+![Sudhanshu's GitHub stats](https://github-readme-stats.vercel.app/api?username=sudhanshukumarx453-sys&show_icons=true&theme=tokyonight)
+
+---
+
+## 🔥 Streak Stats  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sudhanshukumarx453-sys&theme=tokyonight)
+
+---
+
+## 📫 Connect with me  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sudhanshu-kumar-271a35379/)
+
+---
+
+⭐ **"Code. Learn. Improve. Repeat."**
